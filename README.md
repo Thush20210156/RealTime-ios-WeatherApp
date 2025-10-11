@@ -5,26 +5,26 @@ This app provides **real-time weather updates**, **dynamic animations**, **saved
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🌍 **Real-time Weather Updates**  
+-  **Real-time Weather Updates**  
   Displays live temperature, conditions, and forecasts for user-searched locations.
 
-- 🎬 **Dynamic Animations**  
+-  **Dynamic Animations**  
   Beautiful real-time animations that change based on weather conditions (rain, clouds, sun, etc.).
 
-- 📍 **Add / Remove Locations**  
+-  **Add / Remove Locations**  
   Users can **save favorite cities** and remove them anytime.
 
-- 🗺️ **Tourist Attraction Finder**  
+-  **Tourist Attraction Finder**  
   Integrated **Map View** displays popular attractions for the selected city.
 
-- 🧭 **Current Location Support**  
+-  **Current Location Support**  
   Automatically fetches weather based on the user’s current location.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Swift  
 - **Framework:** SwiftUI / UIKit (mention what you used)  
@@ -35,7 +35,7 @@ This app provides **real-time weather updates**, **dynamic animations**, **saved
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Home Screen | Saved Locations |
 |--------------|----------------|
@@ -47,7 +47,7 @@ This app provides **real-time weather updates**, **dynamic animations**, **saved
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - macOS with **Xcode 15+**
