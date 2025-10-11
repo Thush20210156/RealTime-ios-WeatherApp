@@ -37,9 +37,16 @@ This app provides **real-time weather updates**, **dynamic animations**, **saved
 
 ## 📸 Screenshots
 
-| Home Screen | Saved Locations |
-|--------------|----------------|
-| ![Home Screen](https://github.com/Thush20210156/RealTime-ios-WeatherApp/blob/Ready_to_submit/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-10-11%20at%2012.50.42.png) | ![Saved Locations](./Screenshots/saved_locations.png) |
+
+https://github.com/Thush20210156/RealTime-ios-WeatherApp/blob/Ready_to_submit/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-10-11%20at%2012.50.42.png
+
+https://github.com/Thush20210156/RealTime-ios-WeatherApp/blob/Ready_to_submit/README.md#:~:text=Simulator%20Screenshot%20%2D%20iPhone-,16,-Pro%20%2D%202025%2D10%2D11%20at%2012.51.17
+
+https://github.com/Thush20210156/RealTime-ios-WeatherApp/blob/Ready_to_submit/README.md#:~:text=Simulator%20Screenshot%20%2D%20iPhone-,16,-Pro%20%2D%202025%2D10%2D11%20at%2012.51.39
+
+https://github.com/Thush20210156/RealTime-ios-WeatherApp/blob/Ready_to_submit/README.md#:~:text=Simulator-,Screenshot,-%2D%20iPhone%2016%20Pro%20%2D%202025%2D10%2D11%20at%2012.53.05
+
+https://github.com/Thush20210156/RealTime-ios-WeatherApp/blob/Ready_to_submit/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-10-11%20at%2012.53.23.png#:~:text=Simulator-,Screenshot,-%2D%20iPhone%2016%20Pro%20%2D%202025%2D10%2D11%20at%2012.53.23
 
 ---
 
