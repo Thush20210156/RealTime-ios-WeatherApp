@@ -54,3 +54,9 @@ This app provides **real-time weather updates**, **dynamic animations**, **saved
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/RealTimeWeatherApp.git
+
+2. Open the project in Xcode.
+
+3. Add your API key to WeatherService.swift.
+
+4. Run the app on a simulator or real device.
