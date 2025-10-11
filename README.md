@@ -39,7 +39,7 @@ This app provides **real-time weather updates**, **dynamic animations**, **saved
 
 | Home Screen | Saved Locations |
 |--------------|----------------|
-| ![Home Screen](./Screenshots/weather_home.png) | ![Saved Locations](./Screenshots/saved_locations.png) |
+| ![Home Screen](Simulator Screenshot - iPhone 16 Pro - 2025-10-11 at 12.50.42.png) | ![Saved Locations](./Screenshots/saved_locations.png) |
 
 ---
 
